@@ -1,3 +1,4 @@
 {"level":"info","message":"Parameters 10 and 6 received for modulo","service":"calculate-service"}
 {"level":"info","message":"Parameters 10 and 6 received for exponentiation","service":"calculate-service"}
 {"level":"info","message":"Parameters 10 received for square root","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 received for square root","service":"calculate-service"}
